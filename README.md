@@ -13,7 +13,8 @@ Output: A series of piecewise,cubic equations connecting all N points along with
 Sample Input:
 
 ```
-8
+9
+0 0
 9 16
 22 22
 41 19
